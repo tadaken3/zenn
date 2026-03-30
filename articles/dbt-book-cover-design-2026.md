@@ -1,6 +1,6 @@
 ---
 title: "[技術書典20] シーサーからデータリネージへ。dbt本の表紙デザインが決まるまで"
-emoji: "📗"
+emoji: "🌴"
 type: "idea"
 topics:
   - "dbt"
