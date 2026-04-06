@@ -88,7 +88,7 @@ B5の場合（タチキリ3mm込み）、全体サイズは以下の計算で求
 
 ここでやっとCanvaの登場です。カスタムサイズを指定して、新規デザインを作っていきます。
 
-![カスタムデザインでピクセルを指定](/images/canva-neko-no-shippo-cover-design/custom-degign.png)
+![カスタムデザインでピクセルを指定](/images/canva-neko-no-shippo-cover-design/custom-design.png)
 
 また、ガイド機能を使って、画像の中心と背幅をサイズにガイドを引いておくと、作業がしやすいです。
 
